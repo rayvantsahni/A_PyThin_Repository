@@ -1,2 +1,2 @@
 # My ML
-All my files and notebooks related to Machine Learning
+A repository for `Python` Projects and Notebooks.
